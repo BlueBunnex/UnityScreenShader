@@ -6,4 +6,4 @@ Simply attach `ScreenShaderEffect.cs` to the Camera and assign your screen shade
 
 If you don't know how to create the screen shader itself, a good tutorial can be found [here](https://www.alanzucconi.com/2015/07/08/screen-shaders-and-postprocessing-effects-in-unity3d/). (are they even called screen shaders? whatever)
 
-![Screenshot of the script without any shader loaded.](dontdownload/examplea.png) ![Screenshot of the script with my garbage shader loaded.](dontdownload/exampleb.png)
+![Screenshot of the script without any shader loaded.](dontdownload/examplea.png) | ![Screenshot of the script with my garbage shader loaded.](dontdownload/exampleb.png)
